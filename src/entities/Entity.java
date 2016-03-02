@@ -2,7 +2,7 @@ package entities;
 
 public class Entity {
 	
-	public Entity ()
+	public Entity () {}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
